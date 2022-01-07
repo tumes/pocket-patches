@@ -10,11 +10,6 @@ go.
 
 ## Kaeru no Tame ni Kane wa Naru (English patch)
 
-Update: I've somewhat resolved these issues. I think title screen is good or
-very close. Sprite no longer messes up the info bar, but it is z-indexed wrong
-(shows up over the bar instead of being hidden by it). And the pause transition
-is _almost_ right (some sprites get messed up on part of the intro).
-
 This converts `Kaeru no Tame ni Kane wa Naru (English v1.0)` to the `.pocket`
 format.
 
@@ -25,6 +20,11 @@ have no idea what I'm doing.
 - Top and bottom of main menu are cut off.
 - Character info bar shows incorrect tiles when a sprite crosses it.
 - Pause menu screen transition is janky.
+
+Update: I've somewhat resolved these issues. I think title screen is good or
+very close. Sprite no longer messes up the info bar, but it is z-indexed wrong
+(shows up over the bar instead of being hidden by it). And the pause transition
+is _almost_ right (some sprites get messed up on part of the intro).
 
 Rom MD5: `4ebe14c4c51555908c0e4cabb66dc813`
 
