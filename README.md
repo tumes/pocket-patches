@@ -10,6 +10,11 @@ go.
 
 ## Kaeru no Tame ni Kane wa Naru (English patch)
 
+Update: I've somewhat resolved these issues. I think title screen is good or
+very close. Sprite no longer messes up the info bar, but it is z-indexed wrong
+(shows up over the bar instead of being hidden by it). And the pause transition
+is _almost_ right (some sprites get messed up on part of the intro).
+
 This converts `Kaeru no Tame ni Kane wa Naru (English v1.0)` to the `.pocket`
 format.
 
