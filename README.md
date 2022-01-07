@@ -26,4 +26,6 @@ have no idea what I'm doing.
 - Character info bar shows incorrect tiles when a sprite crosses it.
 - Pause menu screen transition is janky.
 
+Rom MD5: `4ebe14c4c51555908c0e4cabb66dc813`
+
 You can [download the Analogue Pocket IPS patch here](https://github.com/tumes/pocket-patches/blob/main/KaerunoTameniKanewaNaru.ips).
